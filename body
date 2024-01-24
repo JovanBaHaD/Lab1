@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your Modern Design Page</title>
-    <!-- Add any additional meta tags, stylesheets, or scripts as needed -->
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -38,12 +37,19 @@
             padding: 20px;
         }
 
-        
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
     </style>
 </head>
 <body>
 
-    
+    <header>
+        <h1>Website!!!</h1>
+    </header>
 
     <nav>
         <a href="#">Home</a>
@@ -54,13 +60,11 @@
 
     <main>
         <h2>Welcome to our modern website!</h2>
-        <p>This is the main content area of your page.</p>
-        <!-- Add more content as needed -->
+        <p>This is the main content area of the page.</p>
     </main>
 
     <footer>
-        <p>&copy; 2024 Your Company Name. All rights reserved.</p>
-        <!-- Include any additional content, links, or styling specific to your footer -->
+        <p>&copy; 2024  Company . All rights reserved.</p>
     </footer>
 
 </body>
